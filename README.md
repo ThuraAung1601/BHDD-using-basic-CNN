@@ -32,4 +32,11 @@ tra@thura-pc:~$ runipy CNN_train.ipynb
 ```{r, engine='bash', count_lines}
 tra@thura-pc:~$ streamlit run app.py
 ```
+### Experiments 
+- Epochs : 15
+- GPU Execution
+- Tools : Matplotlib, Numpy, Keras
+- Results
+![Results Images](Image/Table.png)
+
 
