@@ -1,6 +1,6 @@
 # BHDD-using-streamlit
 
-### Burmese Handwritten Digit Dataset
+## Burmese Handwritten Digit Dataset
 - Dataset Link : https://github.com/baseresearch/BHDD
 - Download data.pkl directly in order to get pkl raw file
 
@@ -15,6 +15,11 @@
 - Classes : 10, i.e, handwritten digits 0 to 9
 
 ![Handwritten1 Images](Image/no1.png)
+
+## BHDD Phase 1 - Basic ConvNet architecture
+
+### Problem Statement
+The goal of this project is to create a model that will be able to recognize and determine the handwritten digits from its image by using the concepts of Convolution Neural Network and BHDD dataset. Though the goal is to create a model which can recognize the handwritten digits, it can be extended to letters and an individual’s handwriting. The major goal of the proposed system is understanding Convolutional Neural Network, and applying it to the Burmese handwritten recognition system.
 
 ### Install requirements
 ```{r, engine='bash', count_lines}
@@ -51,5 +56,7 @@ tra@thura-pc:~$ streamlit run app.py
 - Khaing Khant Min Paing
 - Khant Zwe Naing
 
-
-
+### References 
+1. https://github.com/baseresearch/BHDD
+2. https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+3. Dutt,A, Dutt,A., 2016. Handwritten Digit Recognition Using Deep Learning, International Journal of Advanced Research in Computer Engineering & Technology
