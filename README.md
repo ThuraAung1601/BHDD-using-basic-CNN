@@ -44,7 +44,7 @@ tra@thura-pc:~$ streamlit run app.py
 - GPU Execution
 - Tools : OpenCV, Matplotlib, Numpy, Keras, Streamlit
 - Results
-![Results Images](Image/Table(1).png)
+![Results Images](Image/Table%(1).png)
 
 ### Demo 
 - Try it yourself on [streamlit](https://share.streamlit.io/thuraaung1601/bhdd-using-streamlit/main/app.py)
