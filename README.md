@@ -35,7 +35,7 @@ tra@thura-pc:~$ streamlit run app.py
 ### Experiments 
 - Epochs : 15
 - GPU Execution
-- Tools : Matplotlib, Numpy, Keras
+- Tools : OpenCV, Matplotlib, Numpy, Keras, Streamlit
 - Results
 ![Results Images](Image/Table.png)
 
