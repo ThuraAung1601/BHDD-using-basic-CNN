@@ -57,6 +57,7 @@ tra@thura-pc:~$ streamlit run app.py
 - Khant Zwe Naing
 
 ### References 
-1. https://github.com/baseresearch/BHDD
-2. https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
-3. Dutt,A, Dutt,A., 2016. Handwritten Digit Recognition Using Deep Learning, International Journal of Advanced Research in Computer Engineering & Technology
+[1] https://github.com/baseresearch/BHDD
+[2] https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+[3] A.Dutt, A.Dutt, 2016. Handwritten Digit Recognition Using Deep Learning, International Journal of Advanced Research in Computer Engineering & Technology
+[4] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
