@@ -1,4 +1,4 @@
-# BHDD-using-streamlit
+# BHDD using Basic ConvNet architecture
 
 ## Burmese Handwritten Digit Dataset
 - Dataset Link : https://github.com/baseresearch/BHDD
