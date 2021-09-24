@@ -33,6 +33,8 @@ tra@thura-pc:~$ runipy CNN_train.ipynb
 tra@thura-pc:~$ streamlit run app.py
 ```
 ### Experiments 
+- We tried Single-layer Perceptron, Multi-layer Perceptron and ConvNet.
+- The best result - 0.98 F-score of classification is by using ConvNet with Regularization (Dropout). Future works still need to be done for architectural innovation on BHDD.
 - Epochs : 15
 - GPU Execution
 - Tools : OpenCV, Matplotlib, Numpy, Keras, Streamlit
@@ -40,8 +42,14 @@ tra@thura-pc:~$ streamlit run app.py
 ![Results Images](Image/Table.png)
 
 ### Demo 
-- Try it yourself on ![streamlit](https://share.streamlit.io/thuraaung1601/bhdd-using-streamlit/main/app.py)
+- Try it yourself on [streamlit](https://share.streamlit.io/thuraaung1601/bhdd-using-streamlit/main/app.py)
 - Demo GIF
 ![Demo](Image/Demo.gif)
+
+### Contributors
+- Thura Aung
+- Khaing Khant Min Paing
+- Khant Zwe Naing
+
 
 
