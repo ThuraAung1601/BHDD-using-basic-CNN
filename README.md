@@ -10,5 +10,5 @@
 - Classes : 10, i.e, handwritten digits 0 t0 9
 ![Handwritten1 Images](Image/no1.png)
 
->>> pip install -r requirements.txt
->>> streamlit run app.py
+tra@thura-pc:~$ pip install -r requirements.txt
+tra@thura-pc:~$ streamlit run app.py
