@@ -2,5 +2,6 @@ numpy
 matplotlib
 tensorflow
 opencv-python
+opencv-python-headless
 streamlit==0.64.0
 streamlit_drawable_canvas==0.4.0
