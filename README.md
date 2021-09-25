@@ -1,6 +1,6 @@
 # BHDD using Basic ConvNet architecture
 
-## Burmese Handwritten Digit Dataset
+## Burmese Handwritten Digits Dataset
 - Dataset Link : https://github.com/baseresearch/BHDD
 - Download data.pkl directly in order to get pkl raw file
 
@@ -18,8 +18,11 @@
 
 ## BHDD Phase 1 - Basic ConvNet architecture
 
-### Problem Statement
+### Abstract
 The goal of this project is to create a model that will be able to recognize and determine the handwritten digits from its image by using the concepts of Convolution Neural Network and BHDD dataset. Though the goal is to create a model which can recognize the handwritten digits, it can be extended to letters and an individual’s handwriting. The major goal of the proposed system is understanding Convolutional Neural Network, and applying it to the Burmese handwritten recognition system.
+
+### Problem statement
+To make children easier recognize digits by playing Burmese Handwritten Digits Recognizer.
 
 ### Install requirements
 ```{r, engine='bash', count_lines}
@@ -59,8 +62,6 @@ tra@thura-pc:~$ streamlit run app.py
 ### References 
 [1] https://github.com/baseresearch/BHDD
 
-[2] https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+[2] A.Dutt, A.Dutt, 2016. Handwritten Digit Recognition Using Deep Learning, International Journal of Advanced Research in Computer Engineering & Technology
 
-[3] A.Dutt, A.Dutt, 2016. Handwritten Digit Recognition Using Deep Learning, International Journal of Advanced Research in Computer Engineering & Technology
-
-[4] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
+[3] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 86(11):2278-2324, November 1998.
