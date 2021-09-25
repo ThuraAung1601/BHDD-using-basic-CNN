@@ -59,6 +59,9 @@ tra@thura-pc:~$ streamlit run app.py
 - Khaing Khant Min Paing
 - Khant Zwe Naing
 
+### Our Powerpoint file
+(File)[Image/Final-project-AI-Course.pdf]
+
 ### References 
 [1] https://github.com/baseresearch/BHDD
 
