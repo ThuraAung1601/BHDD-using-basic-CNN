@@ -49,6 +49,9 @@ tra@thura-pc:~$ streamlit run app.py
 - Results
 ![Results Images](Image/Tables.png)
 
+### User Interface Prototype
+![UI](Image/ui.png)
+
 ### Demo 
 - Try it yourself on [streamlit](https://share.streamlit.io/thuraaung1601/bhdd-using-streamlit/main/app.py)
 - Demo GIF
