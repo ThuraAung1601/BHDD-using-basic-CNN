@@ -59,8 +59,11 @@ tra@thura-pc:~$ streamlit run app.py
 - Khaing Khant Min Paing
 - Khant Zwe Naing
 
+### Architecture we used 
+![CNN}(Image/cnn.png)
+
 ### Our Powerpoint file
-(File)[https://github.com/ThuraAung1601/BHDD-using-basic-CNN/Image/Final-project-AI-Course.pdf]
+https://github.com/ThuraAung1601/BHDD-using-basic-CNN/Image/Final-project-AI-Course.pdf
 
 ### References 
 [1] https://github.com/baseresearch/BHDD
