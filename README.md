@@ -60,7 +60,7 @@ tra@thura-pc:~$ streamlit run app.py
 - Khant Zwe Naing
 
 ### Architecture we used 
-![CNN}(Image/cnn.png)
+![CNN](Image/cnn.png)
 
 ### Our Powerpoint file
 https://github.com/ThuraAung1601/BHDD-using-basic-CNN/Image/Final-project-AI-Course.pdf
