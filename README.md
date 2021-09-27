@@ -62,6 +62,9 @@ tra@thura-pc:~$ streamlit run app.py
 - Khaing Khant Min Paing
 - Khant Zwe Naing
 
+### Presentations
+- [Project Presentation](https://youtu.be/NFmexZ64Kdo)
+
 ### Architecture we used 
 ![CNN](Image/cnn.png)
 
