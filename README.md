@@ -16,7 +16,7 @@
 
 ![Handwritten1 Images](Image/no1.png)
 
-## BHDD Phase 1 - Basic ConvNet architecture
+## Basic ConvNet architecture
 
 ### Abstract
 The goal of this project is to create a model that will be able to recognize and determine the handwritten digits from its image by using the concepts of Convolution Neural Network and BHDD dataset. Though the goal is to create a model which can recognize the handwritten digits, it can be extended to letters and an individual’s handwriting. The major goal of the proposed system is understanding Convolutional Neural Network, and applying it to the Burmese handwritten recognition system.
@@ -67,6 +67,9 @@ tra@thura-pc:~$ streamlit run app.py
 
 ### Architecture we used 
 ![CNN](Image/cnn.png)
+
+### Future Works
+- We need to tune the hyperparameters for better classification
 
 ### References 
 [1] https://github.com/baseresearch/BHDD
