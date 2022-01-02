@@ -1,7 +1,12 @@
 # BHDD using Basic ConvNet architecture
 
 ## Update ! 3 Jan, 2021
-- Updated architecture to get 0.99 f1-score.
+- Updated model architecture
+- The best result - 0.99 F-score of classification is by using ConvNet with Regularization (Dropout). 
+- Epochs : 20
+- Dropout : 0.2
+- GPU Execution
+
 - Model architecture 
 ```
 Model: "sequential"
