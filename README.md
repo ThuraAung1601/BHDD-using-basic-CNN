@@ -1,5 +1,35 @@
 # BHDD using Basic ConvNet architecture
 
+## Update ! 3 Jan, 2021
+- Updated architecture to get 0.99 f1-score.
+- Model architecture 
+```
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ conv2d (Conv2D)             (None, 26, 26, 32)        320       
+                                                                 
+ max_pooling2d (MaxPooling2D  (None, 13, 13, 32)       0         
+ )                                                               
+                                                                 
+ conv2d_1 (Conv2D)           (None, 11, 11, 64)        18496     
+                                                                 
+ max_pooling2d_1 (MaxPooling  (None, 5, 5, 64)         0         
+ 2D)                                                             
+                                                                 
+ flatten (Flatten)           (None, 1600)              0         
+                                                                 
+ dropout (Dropout)           (None, 1600)              0         
+                                                                 
+ dense (Dense)               (None, 10)                16010     
+                                                                 
+=================================================================
+Total params: 34,826
+Trainable params: 34,826
+Non-trainable params: 0
+```
+
 ## Burmese Handwritten Digits Dataset
 - Dataset Link : https://github.com/baseresearch/BHDD
 - Download data.pkl directly in order to get pkl raw file
