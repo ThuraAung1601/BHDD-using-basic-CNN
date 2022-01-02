@@ -66,7 +66,7 @@ tra@thura-pc:~$ pip install -r requirements.txt
 
 ### Train BHDD with Basic ConvNet Architecture with Dropout
 ```{r, engine='bash', count_lines}
-tra@thura-pc:~$ runipy CNN_train.ipynb
+tra@thura-pc:~$ python cnn_train.py
 ```
 - Learning Curves after training with ConvNet
 ![LearningCurves Images](Image/CnnTrain.png)
