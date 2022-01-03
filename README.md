@@ -104,7 +104,7 @@ tra@thura-pc:~$ streamlit run app.py
 ![CNN](Image/cnn.png)
 
 ### Future Works
-- We need to tune the hyperparameters for better classification
+- Need to test GANs on BHDD 
 
 ### References 
 [1] https://github.com/baseresearch/BHDD
