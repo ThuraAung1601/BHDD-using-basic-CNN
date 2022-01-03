@@ -1,4 +1,4 @@
-# BHDD using Basic ConvNet architecture
+# BHDD using ConvNet
 
 ## Update ! 3 Jan, 2021
 - Updated model architecture
