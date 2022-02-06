@@ -1,6 +1,6 @@
 # BHDD using ConvNet
 
-## Update ! 3 Jan, 2021
+## Update ! 3rd Jan, 2021
 - Updated model architecture
 - The best result - 0.99 F-score of classification is by using ConvNet with Regularization (Dropout). 
 - Epochs : 20
@@ -77,7 +77,7 @@ tra@thura-pc:~$ streamlit run app.py
 ```
 ### Experiments 
 - We tried Single-layer Perceptron, Multi-layer Perceptron and ConvNet.
-- The best result - 0.98 F-score of classification is by using ConvNet with Regularization (Dropout). Future works still need to be done for architectural innovation on BHDD.
+- The best result - 0.99 F-score of classification is by using ConvNet with Regularization (Dropout). Future works still need to be done for architectural innovation on BHDD.
 - Epochs : 15
 - GPU Execution
 - Tools : OpenCV, Matplotlib, Numpy, Keras, Streamlit
